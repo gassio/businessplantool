@@ -12,6 +12,7 @@
   "dependencies": {
     "echarts": "^4.1.0",
     "element-ui": "^2.4.3",
+    "serve-static": "^1.13.2",
     "v-charts": "^1.17.6",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1",
