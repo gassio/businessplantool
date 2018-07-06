@@ -4,7 +4,7 @@ import Vuex from 'vuex'
 Vue.use(Vuex)
 
 // const serverUrl = 'http://localhost:3000'
-const serverUrl = 'http://play-trinity.com/theo/bplantool/api'
+// const serverUrl = 'http://play-trinity.com/theo/bplantool/api'
 
 export const store = new Vuex.Store({
 	state: {
